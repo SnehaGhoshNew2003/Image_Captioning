@@ -34,7 +34,7 @@ jupyter notebook ImageCaptioning.ipynb
 
 ## Results
 - The trained model generates captions for input images.
-- Evaluate the model performance using BLEU scores or other NLP metrics.
+- Evaluate the model performance using BLEU, METEOR, ROUGE-L scores or other NLP metrics.
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
